@@ -1,0 +1,34 @@
+[
+  {
+    "title": "What is test?",
+    "contenu": "test provides the first Unified Meeting Experience platform that brings HD video conferencing, mobility and web meetings together as a free cloud service.\nSo you can have crystal-clear video conversation and high quality screen sharing, anytime, from anywhere, with up to 25 people or rooms.\nIt is available for Windows, Mac, iOS, Android and works with PSTN and H.323/SIP room systems.\ntest released licensing that will allow additional capacity in the 1st quarter of 2014."
+  },
+  {
+    "title": "How do I begin?",
+    "contenu": "To begin, simply go to and click on Sign up.\nFrom there you can enter your first and last name, and your e-mail address to sign up.\nAdditionall functionality will be added in the next few months that will allow you to use youre NLU username and password."
+  },
+  {
+    "title": "Where do I find the desktop or mobile app?",
+    "contenu": "Once you have signed up or logged in, click on Host a Meeting, the desktop app will auto-download.\nAlternatively, you can click on the download footer link at http://test.us.\nFor iOS, vist the Apple App Store or by searching 'test' For Android, visit Google Play or by searching 'test HD meetings'."
+  },
+  {
+    "title": "What do I do after I launch the app?",
+    "contenu": "After you launch the app, you have two options. You can Join a meeting, or Host a meeting. If you do not wish to log in, and just want to join a meeting in progress click on Join a meeting. If you would like to log in and start you own meeting, click on Host a meeting.\nNote: The client version number is located on the bottom right-hand corner of this dialog box."
+  },
+  {
+    "title": "How do I log in?",
+    "contenu": "To log in, you can use the email and password that you have created, or use your Google (Gmail or Google App) or Facebook account. Tip: If you have not created a user email and password, please click on 'Sign Up' to create a test account.\n Note: if you have a test account, but cannot remember your password. Please select 'Forgot your password'"
+  },
+  {
+    "title": "How do I start a meeting?",
+    "contenu": "Once you have logged in, you will see the main dialog box as shown below. The default tab is 'Home'.\n You can: -Click on Video Meeting to start an instant test meeting \n-Click on Screen Share Meeting to start a meeting while sharing your 'desktop' or 'application' \n-Click on Schedule to set up a future meeting (to learn more about scheduling meetings, click here) 5 | P a g e  Click on Join to join a meeting that has already been started (to learn more about joining a meeting, click here) My Meetings The 'My Meeting' tab shows your upcoming scheduled or recurring meetings. You can also click on the 'Recorded' tab to view previously recorded meetings.\nYou can:\n-Start: Selecting start will start the pre-scheduled meeting that you have listed in your upcoming meetings.\n-Edit: You can edit or update your scheduled meeting.\n-Delete: Selecting delete will permanently delete your scheduled meeting.\n-Copy URL: Here you can copy your scheduled meeting(s) URL and manually paste into an email, IM, SMS etc. Note: if you do not see your scheduled meeting, click the refresh tab in the upper right-hand corner to update/refresh the meeting list. Additionally, make sure to schedule enough time for your meeting, meetings will end as scheduled."
+  },
+  {
+    "title": "How do I configure the settings?",
+    "contenu": "You can find the Settings tab in the main dialog box or in the meeting menu bar.\nAfter clicking Settings, you will have the following options: \nAudio:\nTo Test Your Audio\n-Click on 'Settings' on your PC or Mac client, or during a video meeting, click on 'Settings' in the menu bar (toggle to activate). Then click on the 'Audio' tab to test your audio setting.\n-Select the microphone drop down and try a different audio source if the other side can't hear you\n-Select the speaker drop down and try a difference speaker source if you can't hear the other side.\nVideo:\n To Test Your Video Camera before or during a video meeting, click on 'Settings' in the client menu, then Click on the 'Video' tab to test your video selection.\n-Here you can also click on the drop down arrow to switch between Cameras that you have connected to your computer.\nGeneral: You can select additional preferences Feedback: We welcome any questions, comments, or feedback.\nRecording: Here you can browse/open your stored recordings (all recordings are stored on your local device/computer).\nAccount: Here you can upgrade your account to pro user or, manage your account details (Learn more about Account)."
+  },
+  {
+    "title": "What can I do in a meeting?",
+    "contenu": "Once you have started or joined a meeting, you can perform the following actions from the menu bar located at the bottom of the meeting window(move your mouse to toggle). You can:\n-Invite more people to join by email, IM, SMS (mobile users) or meeting ID (learn more).\n-Screen share your desktop or specific application window (learn more).\n-Group or private chat.\n-Participants and Chat (learn more).\n-Mute/unmute audio.\n-Stop/start video.\n-Configure your settings (learn more).\n-Leave or end the video meeting."
+  }
+]
