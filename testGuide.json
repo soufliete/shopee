@@ -1,14 +1,14 @@
 {
     "appName": "TEST Guide App",
-    "adCounter": 1,
+    "adCounter": 2,
     "startApp": "",
     "adAppId": "ca-app-pub-3106759251304631~9820326452",
     "adBannerAd": "ca-app-pub-3940256099942544/6300978111",
     "adNativeAd": "ca-app-pub-3940256099942544/2247696110",
     "adInterstitialAd": "ca-app-pub-3940256099942544/1033173712",
-    "fbBannerAd": "508855279781598_523175378349588",
+    "fbBannerAd": "",
     "fbNativeAd": "",
-    "fbInterstitialAd": "508855279781598_523176041682855",
+    "fbInterstitialAd": "",
     "packageName": "com.zoom.cheikhyon.guide",
     "storeName": "com.zoom.cheikhyon.guide"
 }
