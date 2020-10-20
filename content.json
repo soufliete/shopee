@@ -1,92 +1,88 @@
 {
-"steps":[
-{
-"id":1,
-"name":"Step 1" 
-},
-{
-"id":2,
-"name":"Step 2" 
-},
-{
-"id":3,
-"name":"Step 3" 
-},
-{
-"id":4,
-"name":"Step 4" 
-},
-{
-"id":5,
-"name":"Step 5" 
-}
-],
-"Step 1":[
-{
-"id":1,
-"name":"How to Set default file destination?" 
-},
-{
-"id":2,
-"name":"How To Send files in Xender?" 
-},
-{
-"id":3,
-"name":"How to move Xender to SD Card!" 
-
-},
-{
-"id":4,
-"name":"How to connect Xender Web" 
-}
-],
-"Step 2":[
-{
-"id":1,
-"name":"Slow Transfer Speed" 
-},
-{
-"id":2,
-"name":"How to Send Files in Xender?" 
-},
-{
-"id":3,
-"name":"How to Receive Files in Xender ?" 
-
-},
-{
-"id":4,
-"name":"How to transfer files with VPN Fix" 
-}
-],
-"Step 2":[
-{
-"id":1,
-"name":"Slow Transfer Speed" 
-},
-{
-"id":2,
-"name":"How to Send Files in Xender?" 
-},
-{
-"id":3,
-"name":"How to Receive Files in Xender ?" 
-},
-{
-"id":4,
-"name":"How to transfer files with VPN Fix" 
-}
- ],
-"How to Set default file destination?":
-[
-{
-"name":"It may be that one of the devices is very old and has outdated hardware (Wi-Fi Technology) due to which the transfer" 
-}
-],
-"How to transfer files with VPN Fix":
-[
-{
-"name":"tttttttttttttttttttttttttttttttsghssjkssssssssssssssssssssssssssssssssssss slssssssssssssssssssssssssss slslssmmsmss" 
-}
-]
+    "steps": [
+        {
+            "id": 1,
+            "name": "Step 1"
+        },
+        {
+            "id": 2,
+            "name": "Step 2"
+        },
+        {
+            "id": 3,
+            "name": "Step 3"
+        },
+        {
+            "id": 4,
+            "name": "Step 4"
+        },
+        {
+            "id": 5,
+            "name": "Step 5"
+        }
+    ],
+    "Step 1": [
+        {
+            "id": 1,
+            "name": "How to Set default file destination?"
+        },
+        {
+            "id": 2,
+            "name": "How To Send files in Xender?"
+        },
+        {
+            "id": 3,
+            "name": "How to move Xender to SD Card!"
+        },
+        {
+            "id": 4,
+            "name": "How to connect Xender Web"
+        }
+    ],
+    "Step 2": [
+        {
+            "id": 1,
+            "name": "Slow Transfer Speed"
+        },
+        {
+            "id": 2,
+            "name": "How to Send Files in Xender?"
+        },
+        {
+            "id": 3,
+            "name": "How to Receive Files in Xender ?"
+        },
+        {
+            "id": 4,
+            "name": "How to transfer files with VPN Fix"
+        }
+    ],
+    "Step 4": [
+        {
+            "id": 1,
+            "name": "Slow Transfer Speed"
+        },
+        {
+            "id": 2,
+            "name": "How to Send Files in Xender?"
+        },
+        {
+            "id": 3,
+            "name": "How to Receive Files in Xender ?"
+        },
+        {
+            "id": 4,
+            "name": "How to transfer files with VPN Fix"
+        }
+    ],
+    "How to Set default file destination?": [
+        {
+            "name": "It may be that one of the devices is very old and has outdated hardware (Wi-Fi Technology) due to which the transfer"
+        }
+    ],
+    "How to transfer files with VPN Fix": [
+        {
+            "name": "tttttttttttttttttttttttttttttttsghssjkssssssssssssssssssssssssssssssssssss slssssssssssssssssssssssssss slslssmmsmss"
+        }
+    ]
 }
