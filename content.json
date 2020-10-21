@@ -21,7 +21,7 @@
             "name": "Fifth Step"
         }
     ],
-    "Step 1": [
+    "First Step": [
         {
             "id": 1,
             "name": "What is HappyMod?"
@@ -39,7 +39,7 @@
             "name": "What is the best MOD app?"
         }
     ],
-    "Step 2": [
+    "Second Step": [
         {
             "id": 1,
             "name": "What is the best MOD app?"
@@ -57,7 +57,7 @@
             "name": "Where can I download app mods?"
         }
     ],
-    "Step 3": [
+    "Third Step": [
         {
             "id": 1,
             "name": "Where can I download app mods?"
@@ -75,7 +75,7 @@
             "name": "What is the best MOD app?"
         }
     ],
-    "Step 4": [
+    "Fourth Step": [
         {
             "id": 1,
             "name": "Is HappyMod safe?"
@@ -93,7 +93,7 @@
             "name": "Where can I download app mods?"
         }
     ],
-    "Step 5": [
+    "Fifth Step": [
         {
             "id": 1,
             "name": "What is the best MOD app?"
