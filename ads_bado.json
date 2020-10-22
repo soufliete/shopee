@@ -1,0 +1,10 @@
+{"ADS_STATION":[{
+  "face_banner":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+"face_interstital":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+"face_native":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+
+"admob_banner":"ca-app-pub-5621468637101938/6462200529",
+"admob_interstital":"ca-app-pub-5621468637101938/3704692167",
+"admob_nativeads":"ca-app-pub-5621468637101938/8896792173",
+"admob_or_face_or_both":"admob"
+}]}
