@@ -24,7 +24,7 @@
     "First Step": [
         {
             "id": 1,
-            "name": "How to Set default file destination?"
+            "name": "How to Receive Files in Xender?"
         },
         {
             "id": 2,
@@ -152,3 +152,4 @@
         }
     ]
 }
+
