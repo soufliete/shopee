@@ -1,0 +1,131 @@
+{
+    "steps": [
+        {
+            "id": 1,
+            "name": "First Step"
+        },
+        {
+            "id": 2,
+            "name": "Second Step"
+        },
+        {
+            "id": 3,
+            "name": "Third Step"
+        },
+        {
+            "id": 4,
+            "name": "Fourth Step"
+        },
+        {
+            "id": 5,
+            "name": "Fifth Step"
+        }
+    ],
+    "First Step": [
+        {
+            "id": 1,
+            "name": "Is it Free?"
+        },
+        {
+            "id": 2,
+            "name": "How is it timed Widgets?"
+        },
+        {
+            "id": 3,
+            "name": "how to Color Theming?"
+        },
+        {
+            "id": 4,
+            "name": "How specify Photo Widget?"
+        }
+    ],
+    "Second Step": [
+        {
+            "id": 1,
+            "name": "How specify Photo Widget?"
+        },
+        {
+            "id": 2,
+            "name": "how to Color Theming?"
+        },
+        {
+            "id": 3,
+            "name": "How is it timed Widgets?"
+        },
+        {
+            "id": 4,
+            "name": "Is it Free?"
+        }
+    ],
+    "Third Step": [
+        {
+            "id": 1,
+            "name": "How is it timed Widgets?"
+        },
+        {
+            "id": 2,
+            "name": "How specify Photo Widget?"
+        },
+        {
+            "id": 3,
+            "name": "Is it Free?"
+        },
+        {
+            "id": 4,
+            "name": "how to Color Theming?"
+        }
+    ],
+    "Fourth Step": [
+        {
+            "id": 1,
+            "name": "Is it Free?"
+        },
+        {
+            "id": 2,
+            "name": "How is it timed Widgets?"
+        },
+        {
+            "id": 3,
+            "name": "how to Color Theming?"
+        },
+        {
+            "id": 4,
+            "name": "How specify Photo Widget?"
+        }
+    ],
+    "Fifth Step": [
+       {
+            "id": 1,
+            "name": "How specify Photo Widget?"
+        },
+        {
+            "id": 2,
+            "name": "how to Color Theming?"
+        },
+        {
+            "id": 3,
+            "name": "How is it timed Widgets?"
+        },
+        {
+            "id": 4,
+            "name": "Is it Free?"
+        }
+    ],
+    "Is it Free?": [
+        {
+            "name": "In the Widgetsmith app on your phone, there are three distinctive widget sizes to browse: little, medium, and huge. Every widget can display an assortment of information and be customized with various textual style styles and hues, color hues, and foundation hues."        }
+    ],
+    "How is it timed Widgets?": [
+        {
+            "name": "The cycle is fantastically direct. You basically click the Include button for the size of the widget you need to make, at that point tap on the widget to customize it.The principal choice you need to make is the thing such a piece of information you need the widget to display on your home screen. Here are the information sources accessible in Widgetsmith:TimeDateCustom: Photo, Photos in Album, Custom Text, BlankCalendar,Reminders,Weather,Health  Activity,Tides,Astronomy"        }
+    ],
+    "how to Color Theming?": [
+        {
+            "name": "Widgetsmith app on your phone, there are three distinctive widget sizes to browse: little, medium, and huge. Every widget can display an assortment of information and be customized with various textual style styles and hues, color hues, and foundation hues.The cycle is fantastically direct. You basically click the Include button for the size of the widget you need to make, at that point tap on the widget to customize it.The principal choice you need to make is the thing such a piece of information you need the widget to display on your home screen"
+        }
+    ],
+    "How specify Photo Widget?": [
+        {
+            "name": "In the Widgetsmith app on your phone, there are three distinctive widget sizes to browse: little, medium, and huge. Every widget can display an assortment of information and be customized with various textual style styles and hues, color hues, and foundation hues.The cycle is fantastically direct. You basically click the Include button for the size of the widget you need to make, at that point tap on the widget to customize it."        }
+    ]
+}
