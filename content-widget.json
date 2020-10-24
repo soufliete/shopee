@@ -1,0 +1,134 @@
+{
+    "steps": [
+        {
+            "id": 1,
+            "name": "First Step"
+        },
+        {
+            "id": 2,
+            "name": "Second Step"
+        },
+        {
+            "id": 3,
+            "name": "Third Step"
+        },
+        {
+            "id": 4,
+            "name": "Fourth Step"
+        },
+        {
+            "id": 5,
+            "name": "Fifth Step"
+        }
+    ],
+    "First Step": [
+        {
+            "id": 1,
+            "name": "How create a profile in Badoo?"
+        },
+        {
+            "id": 2,
+            "name": "How to connect with people nearby in Badoo?"
+        },
+        {
+            "id": 3,
+            "name": "how to get Badoo Premium for free?"
+        },
+        {
+            "id": 4,
+            "name": "How Log in Badoo?"
+        }
+    ],
+    "Second Step": [
+        {
+            "id": 1,
+            "name": "How to connect with people nearby in Badoo?"
+        },
+        {
+            "id": 2,
+            "name": "How create a profile in Badoo?"
+        },
+        {
+            "id": 3,
+            "name": "How Log in Badoo?"
+        },
+        {
+            "id": 4,
+            "name": "how to get Badoo Premium for free?"
+        }
+    ],
+    "Third Step": [
+        {
+            "id": 1,
+            "name": "how to get Badoo Premium for free?"
+        },
+        {
+            "id": 2,
+            "name": "How create a profile in Badoo?"
+        },
+        {
+            "id": 3,
+            "name": "How to connect with people nearby in Badoo?"
+        },
+        {
+            "id": 4,
+            "name": "How Log in Badoo?"
+        }
+    ],
+    "Fourth Step": [
+        {
+            "id": 1,
+            "name": "How to connect with people nearby in Badoo?"
+        },
+        {
+            "id": 2,
+            "name": "how to get Badoo Premium for free?"
+        },
+        {
+            "id": 3,
+            "name": "How Log in Badoo?"
+        },
+        {
+            "id": 4,
+            "name": "How create a profile in Badoo?"
+        }
+    ],
+    "Fifth Step": [
+        {
+            "id": 1,
+            "name": "How create a profile in Badoo?"
+        },
+        {
+            "id": 2,
+            "name": "How Log in Badoo?"
+        },
+        {
+            "id": 3,
+            "name": "how to get Badoo Premium for free?"
+        },
+        {
+            "id": 4,
+            "name": "How to connect with people nearby in Badoo?"
+        }
+    ],
+    "How create a profile in Badoo?": [
+        {
+            "name": "In case you did not know, Badoo is one of the most popular online dating sites in the world, it has been years connecting and forming new couples with total success, either through its websites or from its mobile application, in Badoo we can connect with boys and girls near or wherever you want, of course for this we will need an account and we can create it free in two different ways, today we will leave you with a small tutorial so you can start your love story in this community.the main thing is to start uploading your photographs and choosing the best one to be your main profile photo, after that your personal information is necessary to tell your potential new friends"
+        }
+    ],
+    "How to connect with people nearby in Badoo?": [
+        {
+            "name": "It doesn't matter where you are because if you are looking for love and you have the application of Badoo on your mobile, at any time you can find that special person you wanted, today we will tell you about the spectacular function in Badoo.This way you can get an idea if you talk to someone you like through the Badoo chat. If you talk to someone who is online you have more options to get an answer.You know, with the Badoo application we have the option to meet people close from where we are, if you are looking for a partner do not miss this opportunity and meet the close and real person you always wanted"
+        }
+    ],
+    "how to get Badoo Premium for free?": [
+        {
+            "name": "For all of us who have a profile on Badoo, we know that we do not have all the functions available for our free version and of course we know that if we have Badoo Premium we have many more options to meet new people and make a match, today before you spend money on that. Once you enter the profile page of your account we go directly to settings . Now you move to the lowest part of your account and discreetly find the option delete account. If you like Badoo premium you can get them for a small fee, and you should know that this option will be available only."
+        }
+    ],
+    "How Log in Badoo?": [
+        {
+            "name": "Enter your Badoo profile and start your own story looking for new friends.We have already learned to create a new profile in Badoo and now what we always have to do each time we want to meet friends is to start our session, just as when creating our profile.from the Badoo application, you decide from where to enter, but for that there are also different ways that we should know in case of any problem. Meet people online by entering your Badoo profile as we indicated in the following options.Here the thing is different, since, if you created a profile for the first time in Badoo using the app on your mobile, when you leave you will not close your session, you can re-enter as many times as necessary and want without re-entering any data "
+        }
+    ]
+}
