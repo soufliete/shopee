@@ -24,108 +24,129 @@
     "First Step": [
         {
             "id": 1,
-            "name": "Is it Free?"
+            "name": "Is it Piggy House?"
         },
         {
             "id": 2,
-            "name": "How is it timed Widgets?"
+            "name": "How is it Player House?"
         },
         {
             "id": 3,
-            "name": "how to Color Theming?"
+            "name": "how to Player Forest?"
         },
         {
             "id": 4,
-            "name": "How specify Photo Widget?"
+            "name": "How specify Carnival?"
         }
     ],
     "Second Step": [
         {
             "id": 1,
-            "name": "How specify Photo Widget?"
+            "name": "How specify City?"
         },
         {
             "id": 2,
-            "name": "how to Color Theming?"
+            "name": "how to Get Plant?"
         },
         {
             "id": 3,
-            "name": "How is it timed Widgets?"
+            "name": "How is it Gallery?"
         },
         {
             "id": 4,
-            "name": "Is it Free?"
+            "name": "Is it Station?"
         }
     ],
     "Third Step": [
         {
             "id": 1,
-            "name": "How is it timed Widgets?"
+            "name": "how to Get Plant?"
         },
         {
             "id": 2,
-            "name": "How specify Photo Widget?"
+            "name": "How specify Carnival?"
         },
         {
             "id": 3,
-            "name": "Is it Free?"
+            "name": "How specify City?"
         },
         {
             "id": 4,
-            "name": "how to Color Theming?"
+            "name": "How is it Player House?"
         }
     ],
     "Fourth Step": [
         {
             "id": 1,
-            "name": "Is it Free?"
+            "name": "Is it Piggy House?"
         },
         {
             "id": 2,
-            "name": "How is it timed Widgets?"
+            "name": "How is it Player House?"
         },
         {
             "id": 3,
-            "name": "how to Color Theming?"
+            "name": "how to Player Forest?"
         },
         {
             "id": 4,
-            "name": "How specify Photo Widget?"
+            "name": "How specify Carnival?"
         }
     ],
     "Fifth Step": [
-       {
+        {
             "id": 1,
-            "name": "How specify Photo Widget?"
+            "name": "How specify City?"
         },
         {
             "id": 2,
-            "name": "how to Color Theming?"
+            "name": "how to Get Plant?"
         },
         {
             "id": 3,
-            "name": "How is it timed Widgets?"
+            "name": "How is it Gallery?"
         },
         {
             "id": 4,
-            "name": "Is it Free?"
+            "name": "Is it Station?"
         }
     ],
-    "Is it Free?": [
+    "Is it Piggy House?": [
         {
-            "name": "In the Widgetsmith app on your phone, there are three distinctive widget sizes to browse: little, medium, and huge. Every widget can display an assortment of information and be customized with various textual style styles and hues, color hues, and foundation hues."        }
-    ],
-    "How is it timed Widgets?": [
+            "name": "If you have a character like Doggy, you can get the good advantage of killing players around corners, this being because the skin is small, and the soundtrack is quiet. He can also be used to troll in Forest, although most players point out the Bot version of Doggy has a yellow eye and red-eye, while Doggy himself has two yellow eyes.Piggy Traps aren't affected by gravity, so use this to your advantage! Jump and place a trap midair, which will make it harder to evade the trap.If you use Alarm Traps, you can be notified where the player who hit your trap is. This also tells you which one they hit.Know which ways certain doors open, this can be useful if you are chasing a player so you can trap them by opening a door."  
+            }  ],
+    "How is it Player House?": [
         {
-            "name": "The cycle is fantastically direct. You basically click the Include button for the size of the widget you need to make, at that point tap on the widget to customize it.The principal choice you need to make is the thing such a piece of information you need the widget to display on your home screen. Here are the information sources accessible in Widgetsmith:TimeDateCustom: Photo, Photos in Album, Custom Text, BlankCalendar,Reminders,Weather,Health  Activity,Tides,Astronomy"        }
-    ],
-    "how to Color Theming?": [
-        {
-            "name": "Widgetsmith app on your phone, there are three distinctive widget sizes to browse: little, medium, and huge. Every widget can display an assortment of information and be customized with various textual style styles and hues, color hues, and foundation hues.The cycle is fantastically direct. You basically click the Include button for the size of the widget you need to make, at that point tap on the widget to customize it.The principal choice you need to make is the thing such a piece of information you need the widget to display on your home screen"
+            "name": "If it is Infection and you have no chance of escape, try to hide in the tunnel. (But when people get annoyed, give in, it's morally correct.).On Player, hide behind the room where you have to use the wrench to unlock the opposing room with lasers. The Yellow Key also spawns there.When you spawn, here are three places to check, try to do it in order! Check the shower for the Plank. Empty room for Green key and basement for Wrench or Yellow key.If Piggy is camping, use a Gun. If that's not an option (maybe someone escaped with the gun?) you might have to try to get Piggy to chase you so the others can escape."        
         }
     ],
-    "How specify Photo Widget?": [
+    "how to Player Forest?": [
         {
-            "name": "In the Widgetsmith app on your phone, there are three distinctive widget sizes to browse: little, medium, and huge. Every widget can display an assortment of information and be customized with various textual style styles and hues, color hues, and foundation hues.The cycle is fantastically direct. You basically click the Include button for the size of the widget you need to make, at that point tap on the widget to customize it."        }
+            "name": "The map is dark, so stay near the lights that light the path up. Go only off-track if it's important.On the tower, there is a specific point where you can jump off and not die, (around the middle of it)Alternatively, you can use the Torch to light your way. However, it is extremely bright and might attract the Piggy's attention.You can use objects (like fallen logs or cars) to crouch near to hide from Piggy."
+        }
+    ],
+    "How specify Carnival?": [
+        {
+            "name": "If a Piggy is chasing you while in the tent, jump off the metal platform. The Piggy would have to walk off one of the staircases to continue chasing you (Only works if its Bot).If you need to open the safe, but there are too many Piggies (Infection or Player + Bot), have a lookout who can get into the door if a Piggy is near, allowing you to escape.After you unlock the Orange Key door to the cage, you can get the key inside easier by going to the other entrance through the hole, crouch, and pick up the key without ever going inside the cage with the threat of Foxy."       
+         }
+    ],
+    "How specify City?": [
+        {
+            "name": "Like in the house map, if someone is in the area between the Hotel and the Enterprises, and you are in the plank area, you can just fall and ambush them there. You can also use this strategy in House and Gallery.If someone has Zizzy chasing you down, do the players a favor and lead Zizzy to Grandmother. The player piggy actually is faster than Zizzy, allowing you to run around the map without Zizzy catching you. Once Grandmother wakes up, it will also be normal Piggy speed as well, giving a somewhat decent advantage unless one of the players close the doors on Grandmother, resetting her speed."       
+         }
+    ],
+    "how to Get Plant?": [
+        {
+            "name": "If a bot or player is guarding the dynamite spot, and another player has it, act AFK so the Piggy goes for you. You can just run away at the last second as your teammate places the dynamite down. This can also work if you are holding the dynamite, but it requires more skill.choose someone who has already beat the game and doesn't care about what ending they get to distract Badgy (for ex. Running around in circles in the main room). This will give the players enough time to shoot Badgy or give George the apple and find the potions for the dynamite. When the music starts playing, have the person distracting Badgy run a different way, and when it's the second stage, have them keep it distracted until you can get the hammer. "        
+        }
+    ],
+    "How is it Gallery?": [
+        {
+            "name": "The size of the map keeps players from dodging you, this makes an easy way to kill players.If Doggy is activated, and the plank upstairs is placed, you can get on top of the bench thing and Doggy will no longer chase you.In bot mode, if you have the plank, you can go across and stand at a certain position on Elly Enterprises' roof. If done correctly, when the bots try to chase you, they'll fall off the plank.In Traitor, there is one thing you got to do so you will most likely win. Take the Purple Key or any item that unlocks the Gun and keep it doing so will make it the only way of losing is killed by the bot. Note: this tip can't be done in Metro as weapons to kill the traitor can not be picked up by the traitor and there is no key to unlocking the weapon. Also, if someone knows a certain glitch, they can glitch through the safe door and grab the gun"       
+         }
+    ],
+    "Is it Station?": [
+        {
+            "name": "If the door is opened, and someone has the gas, hide next to the door so when they walk in you can jump out and kill them. Only target the player with the Gas Can.Try to avoid everyone to not look suspicious. Most times in normal Piggy the players will stick together in groups in hopes of better survival chances. Remember, desperately trying to get away from everyone makes you look like the TraitorFor regular players, a glitch is that if the person who is chosen as a Traitor stays on the title screen, they will only get traps and not a weapon. This makes it so that the traitor only has two ways to kill you: get you trapped in a trap and lead the bot to you or just get the Bot to follow you."        }
     ]
 }
