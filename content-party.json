@@ -15,98 +15,119 @@
         {
             "id": 4,
             "name": "Fourth Step"
+        },
+        {
+            "id": 5,
+            "name": "Fifth Step"
         }
     ],
     "First Step": [
         {
             "id": 1,
-            "name": "What is Master Chat?"
+            "name": "What is Party Animals?"
         },
         {
             "id": 2,
-            "name": "How To Use Master Chat?"
+            "name": "How To Fix Cannot Join or Create Room?"
         },
         {
             "id": 3,
-            "name": "How To Become Expert in Master Chat?"
+            "name": "How To Throw Crocodile Out?"
         },
         {
             "id": 4,
-            "name": "How I Can Replay in Any Message?"
+            "name": "how To Fix Error Cannot Connect to Network?"
         }
     ],
     "Second Step": [
         {
             "id": 1,
-            "name": "How I Can Replay in Any Message?"
+            "name": "How To Throw Crocodile Out?"
         },
         {
             "id": 2,
-            "name": "How To Become Expert in Master Chat?"
+            "name": "how To Fix Error Cannot Connect to Network?"
         },
         {
             "id": 3,
-            "name": "How To Use Master Chat?"
+            "name": "How To Fix Cannot Join or Create Room?"
         },
         {
             "id": 4,
-            "name": "What is Master Chat?"
+            "name": "What is Party Animals?"
         }
     ],
     "Third Step": [
         {
             "id": 1,
-            "name": "What is Master Chat?"
+            "name": "how To Fix Error Cannot Connect to Network?"
         },
         {
             "id": 2,
-            "name": "How To Use Master Chat?"
+            "name": "What is Party Animals?"
         },
         {
             "id": 3,
-            "name": "How To Become Expert in Master Chat?"
+            "name": "How To Fix Cannot Join or Create Room?"
         },
         {
             "id": 4,
-            "name": "How I Can Replay in Any Message?"
+            "name": "How To Throw Crocodile Out?"
         }
     ],
     "Fourth Step": [
         {
             "id": 1,
-            "name": "How I Can Replay in Any Message?"
+            "name": "What is Party Animals?"
         },
         {
             "id": 2,
-            "name": "How To Become Expert in Master Chat?"
+            "name": "How To Fix Cannot Join or Create Room?"
         },
         {
             "id": 3,
-            "name": "How To Use Master Chat?"
+            "name": "How To Throw Crocodile Out?"
         },
         {
             "id": 4,
-            "name": "What is Master Chat?"
+            "name": "how To Fix Error Cannot Connect to Network?"
+        }
+    ],
+    "Fifth Step": [
+        {
+            "id": 1,
+            "name": "How To Throw Crocodile Out?"
+        },
+        {
+            "id": 2,
+            "name": "how To Fix Error Cannot Connect to Network?"
+        },
+        {
+            "id": 3,
+            "name": "How To Fix Cannot Join or Create Room?"
+        },
+        {
+            "id": 4,
+            "name": "What is Party Animals?"
         }
     ],
     
-    "What is Master Chat?": [
+    "How To Throw Crocodile Out?": [
         {
-            "name": "Game consists of several activities related to mobile phone, especially texting. Each chat scenario, where you choose what to write, is followed by one or two fun quick mini games."
+            "name": "Party Animals doesn't have much of a plot, but the story is that you have been invited Island to take part in competitions and games to earn the highest amount of points and win the ultimate prize.Races and Challenge Events. Races are simply long race courses, in which the 4-Players must race against each other and cross the finish line.Challenge Events are Mini-Games in which all 4-Players must compete and win to gain extra points towards the total score.These include Hudson Horstachio, Paulie Pretztail, Fergy Fudgehog and Franklin Fizzlybear. The other 4 characters are their female counterparts"
         }
     ],
-    "How To Use Master Chat?": [
+    "how To Fix Error Cannot Connect to Network?": [
         {
-            "name": "Each Chat Scenario , where you choose what to write , is followed by one or two fun quick mini games.say the selection of must popular men and women "
+            "name": "Fight your friends as puppies, kittens and other fuzzy creatures in PARTY ANIMALS! Paw it out with your friends both online and offline. Interact with the world under our realistic physics engine.The game has received mostly mixed to poor feedback. The main drawback is the lack of features that are placed into the game. The fact that the Mini-Games have been too simplified, since it was aimed at young children and another side note.The most important tip I can give out in this game is that you should read the instructions on how to play each Challenge Event before you start it. Whilst most Challenge Events require the same buttons as previous Challenge Events, some will be unique"
         }
     ],
-    "How To Become Expert in Master Chat?": [
+    "How To Fix Cannot Join or Create Room?": [
         {
-            "name": "it's simple and intuitive chat , and is easy to become expert in this game you need only to practice lot of time."        }
+            "name": "eep regularly checking to see what achievements you have left to do. There are a lot of achievements in this game which you will unlock in one go and you may want to keep checking to avoid yourself from repeating methods in the game for achievements you've already unlocked.Once you have selected a Short Game and picked your character, you are ready for your first race. Now when I first raced in the game, I must have grabbed about 10 achievements in one race, as most of them are really easy to do. For this race.Once you have successfully finished the race, you will see the results screen along with all of the achievements you have successfully unlocked, popping in succession. When that has finished you will be taken to a Challenge Event. The Challenge Events will be random, so you will have no idea what Mini-Game you will be playing"        }
     ],
-    "How I Can Replay in Any Message?": [
+    "What is Party Animals?": [
         {
-            "name": "you can easy to replay for any type of messages when you become online , find your friend and play with it , and sort people next you by rating "        
-        }
+            "name": "You may get this achievement un-expectedly. For this achievement you just need to hit every other opponent which is in the race with one item. Some power-ups actually attack all the other 3 players at the same time, and this does count towards the achievement, so this is actually easier than what you think it is.ould have explained this achievement and get you started on Step 1, but I thought it was best for you to have a playthrough and get you into the game. I should say that this achievement does require a good amount of playthroughs.Once done you will then need to choose your character which should be the same one as the 2nd controller or boosting buddy, and then you will see yourself in a different skin colour, indicating that the trick worked"        }
     ]
 }
