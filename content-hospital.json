@@ -2,132 +2,112 @@
     "steps": [
         {
             "id": 1,
-            "name": "First Step"
+            "name": "Step 1"
         },
         {
             "id": 2,
-            "name": "Second Step"
+            "name": "Step 2"
         },
         {
             "id": 3,
-            "name": "Third Step"
+            "name": "Step 3"
         },
         {
             "id": 4,
-            "name": "Fourth Step"
-        },
-        {
-            "id": 5,
-            "name": "Fifth Step"
+            "name": "Step 4"
         }
     ],
-    "First Step": [
+    "Step 1": [
         {
             "id": 1,
-            "name": "What is Party Animals?"
+            "name": "What is Notability?"
         },
         {
             "id": 2,
-            "name": "How To Fix Cannot Join or Create Room?"
+            "name": "How To Capture your thoughts?"
         },
         {
             "id": 3,
-            "name": "How To Throw Crocodile Out?"
+            "name": "How I can Explore Ideas?"
         },
         {
             "id": 4,
-            "name": "how To Fix Error Cannot Connect to Network?"
+            "name": "How To share and finalize My Ideas?"
         }
     ],
-    "Second Step": [
+    "Step 2": [
         {
             "id": 1,
-            "name": "How To Throw Crocodile Out?"
+            "name": "How I can Explore Ideas?"
         },
         {
             "id": 2,
-            "name": "how To Fix Error Cannot Connect to Network?"
+            "name": "What is Notability?"
         },
         {
             "id": 3,
-            "name": "How To Fix Cannot Join or Create Room?"
+             "name": "How To share and finalize My Ideas?"
         },
         {
             "id": 4,
-            "name": "What is Party Animals?"
+            "name": "What is Notability?"
         }
     ],
-    "Third Step": [
+    "Step 3": [
         {
             "id": 1,
-            "name": "how To Fix Error Cannot Connect to Network?"
+            "name": "How I can Explore Ideas?"
         },
         {
             "id": 2,
-            "name": "What is Party Animals?"
+            "name": "What is Notability?"
         },
         {
             "id": 3,
-            "name": "How To Fix Cannot Join or Create Room?"
+             "name": "How To share and finalize My Ideas?"
         },
         {
             "id": 4,
-            "name": "How To Throw Crocodile Out?"
+            "name": "What is Notability?"
         }
     ],
-    "Fourth Step": [
+    "Step 4": [
         {
             "id": 1,
-            "name": "What is Party Animals?"
+            "name": "What is Notability?"
         },
         {
             "id": 2,
-            "name": "How To Fix Cannot Join or Create Room?"
+            "name": "How To Capture your thoughts?"
         },
         {
             "id": 3,
-            "name": "How To Throw Crocodile Out?"
+            "name": "How I can Explore Ideas?"
         },
         {
             "id": 4,
-            "name": "how To Fix Error Cannot Connect to Network?"
-        }
-    ],
-    "Fifth Step": [
-        {
-            "id": 1,
-            "name": "How To Throw Crocodile Out?"
-        },
-        {
-            "id": 2,
-            "name": "how To Fix Error Cannot Connect to Network?"
-        },
-        {
-            "id": 3,
-            "name": "How To Fix Cannot Join or Create Room?"
-        },
-        {
-            "id": 4,
-            "name": "What is Party Animals?"
+            "name": "How To share and finalize My Ideas?"
         }
     ],
     
-    "How To Throw Crocodile Out?": [
-        {
-            "name": "Party Animals doesn't have much of a plot, but the story is that you have been invited Island to take part in competitions and games to earn the highest amount of points and win the ultimate prize.Races and Challenge Events. Races are simply long race courses, in which the 4-Players must race against each other and cross the finish line.Challenge Events are Mini-Games in which all 4-Players must compete and win to gain extra points towards the total score.These include Hudson Horstachio, Paulie Pretztail, Fergy Fudgehog and Franklin Fizzlybear. The other 4 characters are their female counterparts"
-        }
-    ],
-    "how To Fix Error Cannot Connect to Network?": [
-        {
-            "name": "Fight your friends as puppies, kittens and other fuzzy creatures in PARTY ANIMALS! Paw it out with your friends both online and offline. Interact with the world under our realistic physics engine.The game has received mostly mixed to poor feedback. The main drawback is the lack of features that are placed into the game. The fact that the Mini-Games have been too simplified, since it was aimed at young children and another side note.The most important tip I can give out in this game is that you should read the instructions on how to play each Challenge Event before you start it. Whilst most Challenge Events require the same buttons as previous Challenge Events, some will be unique"
-        }
-    ],
-    "How To Fix Cannot Join or Create Room?": [
-        {
-            "name": "eep regularly checking to see what achievements you have left to do. There are a lot of achievements in this game which you will unlock in one go and you may want to keep checking to avoid yourself from repeating methods in the game for achievements you've already unlocked.Once you have selected a Short Game and picked your character, you are ready for your first race. Now when I first raced in the game, I must have grabbed about 10 achievements in one race, as most of them are really easy to do. For this race.Once you have successfully finished the race, you will see the results screen along with all of the achievements you have successfully unlocked, popping in succession. When that has finished you will be taken to a Challenge Event. The Challenge Events will be random, so you will have no idea what Mini-Game you will be playing"        }
-    ],
-    "What is Party Animals?": [
-        {
-            "name": "You may get this achievement un-expectedly. For this achievement you just need to hit every other opponent which is in the race with one item. Some power-ups actually attack all the other 3 players at the same time, and this does count towards the achievement, so this is actually easier than what you think it is.ould have explained this achievement and get you started on Step 1, but I thought it was best for you to have a playthrough and get you into the game. I should say that this achievement does require a good amount of playthroughs.Once done you will then need to choose your character which should be the same one as the 2nd controller or boosting buddy, and then you will see yourself in a different skin colour, indicating that the trick worked"        }
-    ]
+    "What is Notability?": [
+    {
+        "name": "This is a note taking app that allows you to keep your notes organized in folders. It also lets you annotate over top of pictures. One of the favorite features is it records audio. I use this while doing running records so that I can go back and listen to my students while reflecting on my notes. Once you have created student folders it looks something like this.In each child's folder I have lots of different assessments! Here are some examples of what I keep in their folders. Notability gives you many options for paper types, colors, and line styles, allowing you to use the application for almost any writing/note taking situation. The graph lines are perfect for sketching out spaces you might be working on or if you are doing any math or science-based work."
+    }
+],
+"How To Capture your thoughts?": [
+    {
+        "name": "Combine handwriting, photos and typing in a single note to bring your projects to life. Use a wide range of note-taking and sketching tools to capture every detail. You can even add and annotate PDFs in Notability. It’s the perfect place to create and organize work, school, and life's information!created an example running record to show you. I did this because I do not want you to think they look beautiful. Some notes look neater than others.One of the excellent features that Notability offers is the fluid movement for writing notes on the screen. It contains a close up writing feature that makes writing in proportion to the screen much more manageable. It also has a scrolling feature, so when you reach the end of the section, it scrolls the page to the right until you reach the end"
+    }
+],
+"How I can Explore Ideas?": [
+    {
+        "name": "Experiment with different tools to create beautiful, hand-crafted notes and sketches. Continue to scale, rotate, and recolor your ideas and sketches until your notes are just how you want them. Once you're done, organize your notes with ease so you always know where to find what matters most.There are some pages that I the students are required to participate. The reading progress chart is one of them. They use the coloring tool and are able to see how they have grown since the last time we assessed. I also created a darker line on the chart so that I know where they are supposed to be at that point in the year.It then automatically moves to the next line. This makes it very simple to use when taking notes on the fly. I use this for store visits all the time and allows me to stay focused on the discussion in the store instead of having to fiddle with the formatting of the page. It really is as close as you can get to writing on paper."        
+    }
+],
+"How To share and finalize My Ideas?": [
+    {
+        "name": "Zoom in on the specifics, or explore the big picture by combining sketches, outlines, and type. Now you are ready to share your notes with colleagues or study partners through Google Drive, AirDrop, Email and Dropbox.Notability works well with different cloud services such as Dropbox to quickly move documents into and out of your saved library. Within the application itself, it maintains a file system so you can organize and quickly find your library of documents.I have found Notability to be a convenient tool for many different occasions. It was one of the original iPad apps and has consistently gotten better as the iPad itself improved. Now with the Apple Pencil and the selection of features Notability offers, I exclusively use it for all of my note taking needs."       
+     }
+]
 }
