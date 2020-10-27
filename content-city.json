@@ -1,1 +1,113 @@
 
+{
+    "steps": [
+        {
+            "id": 1,
+            "name": "First Step"
+        },
+        {
+            "id": 2,
+            "name": "Second Step"
+        },
+        {
+            "id": 3,
+            "name": "Third Step"
+        },
+        {
+            "id": 4,
+            "name": "Fourth Step"
+        }
+    ],
+    "First Step": [
+        {
+            "id": 1,
+            "name": "What is Master Chat?"
+        },
+        {
+            "id": 2,
+            "name": "How To Use Master Chat?"
+        },
+        {
+            "id": 3,
+            "name": "How To Become Expert in Master Chat?"
+        },
+        {
+            "id": 4,
+            "name": "How I Can Replay in Any Message?"
+        }
+    ],
+    "Second Step": [
+        {
+            "id": 1,
+            "name": "How I Can Replay in Any Message?"
+        },
+        {
+            "id": 2,
+            "name": "How To Become Expert in Master Chat?"
+        },
+        {
+            "id": 3,
+            "name": "How To Use Master Chat?"
+        },
+        {
+            "id": 4,
+            "name": "What is Master Chat?"
+        }
+    ],
+    "Third Step": [
+        {
+            "id": 1,
+            "name": "What is Master Chat?"
+        },
+        {
+            "id": 2,
+            "name": "How To Use Master Chat?"
+        },
+        {
+            "id": 3,
+            "name": "How To Become Expert in Master Chat?"
+        },
+        {
+            "id": 4,
+            "name": "How I Can Replay in Any Message?"
+        }
+    ],
+    "Fourth Step": [
+        {
+            "id": 1,
+            "name": "How I Can Replay in Any Message?"
+        },
+        {
+            "id": 2,
+            "name": "How To Become Expert in Master Chat?"
+        },
+        {
+            "id": 3,
+            "name": "How To Use Master Chat?"
+        },
+        {
+            "id": 4,
+            "name": "What is Master Chat?"
+        }
+    ],
+    
+    "What is Master Chat?": [
+        {
+            "name": "Game consists of several activities related to mobile phone, especially texting. Each chat scenario, where you choose what to write, is followed by one or two fun quick mini games."
+        }
+    ],
+    "How To Use Master Chat?": [
+        {
+            "name": "Each Chat Scenario , where you choose what to write , is followed by one or two fun quick mini games.say the selection of must popular men and women "
+        }
+    ],
+    "How To Become Expert in Master Chat?": [
+        {
+            "name": "it's simple and intuitive chat , and is easy to become expert in this game you need only to practice lot of time."        }
+    ],
+    "How I Can Replay in Any Message?": [
+        {
+            "name": "you can easy to replay for any type of messages when you become online , find your friend and play with it , and sort people next you by rating "        
+        }
+    ]
+}
