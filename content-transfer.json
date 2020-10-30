@@ -109,7 +109,7 @@
         },
         {
             "id": 4,
-            "Build connections without internet"
+            "name":"Build connections without internet"
         }
     ],
     "Brand New CM Transfer": [
@@ -129,7 +129,7 @@
     ],
     "Instantly find nearby friends with Bluetooth support": [
         {
-            "name": "It takes two to tango. So does share. CM Transfer makes it easy for you and your friends to find each other. With Bluetooth, as soon as you tap "Send Files", CM Transfer lists out your nearby friends who are using CM Transfer and ready to exchange files. (Additional permissions are required, including Bluetooth and location service.)"       
+            "name": "It takes two to tango. So does share. CM Transfer makes it easy for you and your friends to find each other. With Bluetooth, as soon as you tap 'Send Files', CM Transfer lists out your nearby friends who are using CM Transfer and ready to exchange files. (Additional permissions are required, including Bluetooth and location service.)"       
         }
     ],
     "Build connections without internet": [
